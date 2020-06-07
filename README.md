@@ -1,3 +1,5 @@
+A demo firebase authentication project given by [Programming Hero](http://bangla.programming-hero.com).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
